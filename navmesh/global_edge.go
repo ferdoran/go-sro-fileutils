@@ -2,7 +2,7 @@ package navmesh
 
 import (
 	"encoding/binary"
-	"gitlab.ferdoran.de/game-dev/go-sro/framework/utils"
+	"github.com/ferdoran/go-sro-framework/utils"
 	"golang.org/x/image/math/f64"
 	"log"
 )

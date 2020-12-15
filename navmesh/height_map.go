@@ -1,7 +1,7 @@
 package navmesh
 
 import (
-	"gitlab.ferdoran.de/game-dev/go-sro/framework/utils"
+	"github.com/ferdoran/go-sro-framework/utils"
 )
 
 type HeightMap struct {

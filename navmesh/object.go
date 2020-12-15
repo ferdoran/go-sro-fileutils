@@ -2,9 +2,9 @@ package navmesh
 
 import (
 	"encoding/binary"
+	"github.com/ferdoran/go-sro-framework/utils"
 	"github.com/g3n/engine/math32"
 	log "github.com/sirupsen/logrus"
-	"gitlab.ferdoran.de/game-dev/go-sro/framework/utils"
 )
 
 type ObjectList struct {

@@ -1,8 +1,8 @@
 package navmesh
 
 import (
+	"github.com/ferdoran/go-sro-framework/math"
 	"github.com/g3n/engine/math32"
-	"gitlab.ferdoran.de/game-dev/go-sro/framework/math"
 )
 
 const (

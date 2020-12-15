@@ -2,8 +2,8 @@ package visual
 
 import (
 	"fmt"
+	"github.com/ferdoran/go-sro-fileutils/navmesh"
 	"github.com/fogleman/gg"
-	"gitlab.ferdoran.de/game-dev/go-sro/fileutils/navmesh"
 	"math"
 	"math/rand"
 )

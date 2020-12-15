@@ -1,8 +1,8 @@
 package pk2
 
 import (
-	"gitlab.ferdoran.de/game-dev/go-sro/framework/security/blowfish"
-	"gitlab.ferdoran.de/game-dev/go-sro/framework/utils"
+	"github.com/ferdoran/go-sro-framework/security/blowfish"
+	"github.com/ferdoran/go-sro-framework/utils"
 	"log"
 	"os"
 	"path/filepath"

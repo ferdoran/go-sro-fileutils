@@ -1,8 +1,8 @@
 package navmesh
 
 import (
+	"github.com/ferdoran/go-sro-framework/utils"
 	"github.com/sirupsen/logrus"
-	"gitlab.ferdoran.de/game-dev/go-sro/framework/utils"
 	"io/ioutil"
 	"strings"
 )
